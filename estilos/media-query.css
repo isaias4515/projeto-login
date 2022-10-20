@@ -24,7 +24,8 @@
 }
 
 @media screen and (min-width: 992px)
-{     body {
+{    
+       body {
          background-image: linear-gradient(to top, #49a09d, #5f2c82);
        }
 
@@ -51,4 +52,4 @@
        div#formulario > p {
           font-size: 0.8em;
        }
-
+}
